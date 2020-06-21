@@ -62,3 +62,24 @@ button:hover{
   background-size: 200%;
   background-color: orange;
 }
+@media screen and (max-width: 1000px) {
+    .intro-content {
+        padding: 25% 0 5% 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .box{
+        padding: 30% 0 5% 0;
+    }
+    .box{
+        padding: 0px 10px;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .box{
+        padding: 45% 0 5% 0;
+    }
+
+
